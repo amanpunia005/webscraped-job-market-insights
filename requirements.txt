@@ -1,0 +1,4 @@
+Selenium
+Pandas version: 2.2.3
+Matplotlib version: 3.9.2
+Seaborn version: 0.13.2

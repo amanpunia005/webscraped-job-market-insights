@@ -80,7 +80,7 @@ The end-to-end workflow covers **data collection, cleaning, exploratory data ana
 
 | Hiring Companies | Job Category Pie | Top 10 Cities | Skills Demand | Job Titles |
 |------------------|------------------|---------------|---------------|------------|
-| ![Hiring](visualizations/hiring_companies_analysis.png) | ![Pie](visualizations/job_category_pie.png) | ![Cities](visualizations/top_10_cities_jobs.png) | ![Skills](visualizations/top_10_skills_demand.png) | ![Titles](visualizations/top_job_titles_logscale.png) |
+| [Hiring](visualizations/hiring_companies_analysis/top_5_company_hiring_by_experience.png) | ![Pie](visualizations/job_category_pie.png) | ![Cities](visualizations/top_10_cities_jobs.png) | ![Skills](visualizations/top_10_skills_demand.png) | ![Titles](visualizations/top_job_titles_logscale.png) |
 
 ---
 
